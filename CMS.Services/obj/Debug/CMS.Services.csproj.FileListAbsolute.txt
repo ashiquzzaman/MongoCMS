@@ -1,0 +1,13 @@
+C:\Users\RAJIB\OneDrive\Projects\MongoCMS\CMS.Services\bin\Debug\CMS.Services.dll
+C:\Users\RAJIB\OneDrive\Projects\MongoCMS\CMS.Services\bin\Debug\CMS.Services.pdb
+C:\Users\RAJIB\OneDrive\Projects\MongoCMS\CMS.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RAJIB\OneDrive\Projects\MongoCMS\CMS.Services\bin\Debug\MongoDB.Bson.dll
+C:\Users\RAJIB\OneDrive\Projects\MongoCMS\CMS.Services\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\RAJIB\OneDrive\Projects\MongoCMS\CMS.Services\bin\Debug\MongoDB.Driver.dll
+C:\Users\RAJIB\OneDrive\Projects\MongoCMS\CMS.Services\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\RAJIB\OneDrive\Projects\MongoCMS\CMS.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RAJIB\OneDrive\Projects\MongoCMS\CMS.Services\bin\Debug\MongoDB.Bson.xml
+C:\Users\RAJIB\OneDrive\Projects\MongoCMS\CMS.Services\bin\Debug\MongoDB.Driver.xml
+C:\Users\RAJIB\OneDrive\Projects\MongoCMS\CMS.Services\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\RAJIB\OneDrive\Projects\MongoCMS\CMS.Services\obj\Debug\CMS.Services.dll
+C:\Users\RAJIB\OneDrive\Projects\MongoCMS\CMS.Services\obj\Debug\CMS.Services.pdb
